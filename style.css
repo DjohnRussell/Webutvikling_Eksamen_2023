@@ -1,0 +1,42 @@
+
+   
+   nav ul{
+        display: flex;
+        flex-direction: row;
+        align-items: flex-end;
+        justify-content: space-around;
+        
+    }
+
+    .logo-and-nav{
+        display: flex;
+        flex-direction: row;
+        justify-content:space-between;
+        
+    }
+
+    .contact-btm{
+        background-color: #e6bd43;
+        color: black;
+        display: inline-block;
+        padding: 1rem;
+        text-decoration: none;
+        margin: 0.5rem;
+        border-radius: 9px;
+    }
+   
+    .read-more{
+        background-color: #e6bd43;
+        color: black;
+        display: inline-block;
+        padding: 1rem;
+        text-decoration: none;
+        margin: 0.5rem;
+        border-radius: 9px;
+        text-decoration: none;
+    }
+
+
+
+
+    
